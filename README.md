@@ -1,7 +1,7 @@
 # mobileToDo 
 
 
-Small Mobile app which one makes easier to manage of ur time. 
+Small Mobile app which one makes easier to manage of Your time. 
 For instance You could create Your own shopping list or wrote plan of the day.
 
 I used React Native and Android Studio.
